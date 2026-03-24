@@ -1,1 +1,2 @@
-echo "fgfd"
+#!/bin/bash
+echo "liki"
