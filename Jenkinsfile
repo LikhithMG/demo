@@ -4,7 +4,7 @@ pipeline{
     stage('Clone'){
       steps{
         git branch: 'main',
-          url : ''
+          url : 'https://github.com/LikhithMG/demo.git'
       }
     }
     stage('Run Script'){
